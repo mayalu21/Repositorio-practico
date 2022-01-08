@@ -1,1 +1,5 @@
-Este un ejemplo de un proyecto en MKDOCS
+### Mantenimiento de computadoras
+
+Este es un texto de ejemplo 
+
+![Image text](/Imagenes/naturaleza.jpeg)
